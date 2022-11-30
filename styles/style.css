@@ -1,0 +1,12 @@
+.navbar-center {
+    margin-left: auto !important;
+    margin-right: auto !important;
+    left: 0 !important;
+    right: 0 !important;
+}
+.carousel-item>img{
+    filter: brightness(.7);
+}
+.justify{
+    text-align: justify;
+}
